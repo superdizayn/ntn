@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" tvg-id2="MzU5ODA=" group-title="🇹🇷 [02] Turkish",TR: TRT 2 HD
+http://144.76.100.187:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20167
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",NET.TV
 https://kusnadipepenk.github.io/campeign/netv.m3u8
 ##https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
